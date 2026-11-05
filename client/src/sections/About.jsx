@@ -61,7 +61,7 @@ export default function About() {
             {/* Action Bar */}
             <div className="pt-4 flex flex-wrap items-center gap-4">
               <a
-                href="#"
+                href="/Joshua_Ilelaboye_CV.pdf"
                 download="Joshua_Ilelaboye_CV.pdf"
                 className="px-6 py-3 rounded-xl bg-sky-500 hover:bg-sky-400 text-white font-mono font-bold text-xs transition-all flex items-center gap-2 shadow-md shadow-sky-500/25"
                 title="Download CV"

@@ -77,9 +77,9 @@ export default function Hero({ profile }) {
                 <ArrowDown className="w-4 h-4 text-sky-500 dark:text-sky-400" />
               </a>
 
-              {/* CV Button linking to # with downloadable filename */}
+              {/* CV Button directly downloading the CV file */}
               <a
-                href="#"
+                href="/Joshua_Ilelaboye_CV.pdf"
                 download="Joshua_Ilelaboye_CV.pdf"
                 className="px-5 py-3.5 rounded-xl border border-slate-300 dark:border-slate-800 bg-slate-100 dark:bg-slate-900/80 hover:border-sky-500 text-slate-800 dark:text-slate-200 font-bold text-xs transition-all flex items-center gap-2 font-mono shadow-sm"
                 title="Download CV (PDF)"

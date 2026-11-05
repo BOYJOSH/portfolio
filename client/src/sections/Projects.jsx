@@ -8,7 +8,7 @@ export default function Projects() {
   const [loading, setLoading] = useState(true);
   const [selectedFilter, setSelectedFilter] = useState('All');
 
-  const filters = ['All', 'Backend Architecture', 'REST API', 'Developer Tooling'];
+  const filters = ['All', 'Backend Architecture', 'Web & E-Commerce'];
 
   useEffect(() => {
     const loadProjects = async () => {
