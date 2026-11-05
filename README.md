@@ -91,6 +91,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 **Ilelaboye Joshua Oluwadamilare**  
 - **GitHub**: [@boyjosh](https://github.com/boyjosh)  
 - **LinkedIn**: [connectwjosh](https://linkedin.com/in/connectwjosh)  
-- **Twitter/X**: [@heis__josh](https://x.com/heis__josh)  
-- **WhatsApp**: [+234 701 422 4561](https://wa.me/2347014224561)  
 - **Email**: [softboyjosh27@gmail.com](mailto:softboyjosh27@gmail.com)
