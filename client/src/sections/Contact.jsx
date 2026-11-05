@@ -155,7 +155,7 @@ export default function Contact() {
               className="rounded-3xl border border-slate-200 dark:border-dark-border bg-white dark:bg-dark-card p-8 sm:p-10 space-y-5 shadow-xl"
             >
               <h3 className="text-xl font-black text-slate-900 dark:text-white font-mono">
-                Send a Message to My PostgreSQL Database
+                Send a Message to Me 
               </h3>
 
               {status && (
